@@ -1,11 +1,14 @@
 /* Have fun. This is your site. */
 
 body {
-  background: lightgray;
+  background: black;
 }
-
+h1{
+  text-align: center;
+}
 /* Main Container */
 main {
+  color: whitesmoke;
   width: 100%;
   /* centers container to page */
   margin-inline: auto;
