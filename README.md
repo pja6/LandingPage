@@ -1,6 +1,6 @@
-# DIY Landing Page
+# Paul Aguilar Landing Page
 
-> Make your own landing page with your own content, and design.
+> My landing page with my content and design.
 
 ## What Is This? 
 My DIY Landing Page with these features. 
@@ -12,9 +12,8 @@ My DIY Landing Page with these features.
 * Secure, and scalable to many CDNs worldwide via Netlify, Vercel, etc.
 
 ## Sources
-* Cite.
-* Your. 
-* Sources.
+* [Google Fonts](https://fonts.google.com/)
+
 
 ## Why Does This Exist? 
 Many services offer a single-page-landing. These "web portals" have existed for decades before [Linktree](https://linktr.ee/), [About.Me](https://about.me), [Card](https://carrd.co/), etc.
